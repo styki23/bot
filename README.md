@@ -1,2 +1,2 @@
-# bot STYKI_BOT
+#  STYKI_BOT
 BOT FORM WA
