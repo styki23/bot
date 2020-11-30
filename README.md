@@ -1,2 +1,3 @@
 #  STYKI_BOT
 BOT FORM WA
+^o^
